@@ -1,0 +1,1 @@
+my @array = (1, 2, 3);my $element = $array[3];if (defined $element) { # Check if the element exists print "Element at index 3: $element\n"; }else { print "Index out of bounds!\n"; } 
